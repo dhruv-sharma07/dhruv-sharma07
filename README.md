@@ -92,12 +92,6 @@ Principles distilled from hackathons, systems design, and production builds:
 ## 📊 Engineering Activity & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruv-sharma07&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
