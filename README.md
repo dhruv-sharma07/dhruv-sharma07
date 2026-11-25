@@ -26,7 +26,7 @@
     <a href="mailto:dhruvsharma71105@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/dhruv-sharma07" target="_blank">
+    <a href="https://www.linkedin.com/in/dhruv-sharma-52b2532bb/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/dhruv-sharma07">
@@ -165,7 +165,7 @@ quote: "The best systems are engineered with curiosity, precision, and purpose."
 ### 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhruv-sharma07" target="_blank">
+  <a href="https://www.linkedin.com/in/dhruv-sharma-52b2532bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dhruvsharma71105@gmail.com">
